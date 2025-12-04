@@ -1,0 +1,13 @@
+/home/ollie/mediamage/build/linux/x64/release/bundle/mediamage
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/icudtl.dat
+/home/ollie/mediamage/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/ollie/mediamage/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/ollie/mediamage/build/linux/x64/release/bundle/lib/libapp.so

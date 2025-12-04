@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ollie/mediamage/build/linux/x64/release/cmake_install.cmake",
+		"/home/ollie/mediamage/build/linux/x64/release/flutter/cmake_install.cmake",
+		"/home/ollie/mediamage/build/linux/x64/release/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

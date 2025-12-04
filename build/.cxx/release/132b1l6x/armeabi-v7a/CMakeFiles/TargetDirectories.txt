@@ -1,0 +1,2 @@
+/home/ollie/mediamage/build/.cxx/release/132b1l6x/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/ollie/mediamage/build/.cxx/release/132b1l6x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
